@@ -11,10 +11,10 @@ My work focuses on connecting people, processes and technology by improving oper
 ## 🚀 Core Expertise
 
 - ☁️ Cloud Operations
-- 🔐 Identity & Access Management
+- 🔐 Identity & Access Management (IAM)
 - 🛡️ Security Operations
 - 🤖 Enterprise Automation
-- 🏢 SaaS Administration
+- 🏢 Enterprise SaaS Administration
 - 🌐 Zero Trust & Secure Access
 - 📊 Observability
 - 🐧 Linux Administration
@@ -24,10 +24,10 @@ My work focuses on connecting people, processes and technology by improving oper
 ## 🛠️ Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,linux,git,github,docker,vscode,bash" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,git,github,bash,vscode" />
 </p>
 
-### Platforms
+## 🏢 Enterprise Platforms
 
 - AWS IAM
 - Okta
@@ -41,24 +41,36 @@ My work focuses on connecting people, processes and technology by improving oper
 
 ---
 
+## 🎯 Current Focus
+
+- Cloud Operations
+- Identity & Access Management
+- Enterprise Automation
+- AWS Governance
+- Platform Engineering
+
+---
+
 ## 🌱 Currently Learning
 
 - Terraform
 - Docker
 - GitHub Actions
 - CI/CD
-- Platform Engineering
+- Infrastructure as Code (IaC)
 
 ---
 
 ## 📂 Featured Projects
 
-- 🏗️ Infrastructure Lab
-- 🤖 n8n Self-Hosted Lab
-- 🚀 Giropops Status
-- ☁️ AWS IAM Labs *(coming soon)*
-- 🔐 Okta Labs *(coming soon)*
-- ⚡ Slack Automation *(coming soon)*
+| Project | Description |
+|----------|-------------|
+| 🏗️ Infrastructure Lab | Infrastructure as Code (IaC) laboratory built with Terraform. |
+| 🤖 n8n Self-Hosted | Personal lab for workflow automation using self-hosted n8n. |
+| 🚀 Giropops Status | DevOps laboratory developed during LinuxTips studies. |
+| ☁️ AWS IAM Labs *(coming soon)* | Practical IAM governance and AWS security examples. |
+| 🔐 Okta Labs *(coming soon)* | Identity, SSO and lifecycle management examples. |
+| ⚡ Slack Automation *(coming soon)* | Workflow automation and enterprise operational processes. |
 
 ---
 
@@ -73,3 +85,7 @@ My work focuses on connecting people, processes and technology by improving oper
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
+
+---
+
+> *Building secure, scalable and efficient technology environments through cloud, identity and automation.*
