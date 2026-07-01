@@ -1,16 +1,75 @@
-🔐 Profissional de Segurança da Informação | ☁️ DevSecOps & Zero Trust Enthusiast  
+# Hi, I'm Filipe Andrade 👋
 
-Atuando na área de **Blue Team**, **Cloud Security**, **Gestão de Identidade (IdP)** e **Zero Trust**, focado em garantir a proteção de ambientes corporativos e a segurança dos acessos.  
-Buscando sempre evoluir e aprofundar conhecimentos em tecnologias e estratégias de defesa cibernética.  
+**Cloud Operations | Identity & Access Management | Enterprise Automation | Security Operations**
 
-💡 Experiência e foco em:  
-- Segurança defensiva (Blue Team)  
-- Arquiteturas Zero Trust  
-- Plataformas de identidade e autenticação (IdP)  
-- Gestão e conformidade em ambientes Cloud  
-- Monitoramento e resposta a incidentes  
+IT professional with 11+ years of experience helping organizations build secure, scalable and efficient technology environments through identity management, cloud operations, security and automation.
 
-📚 Em constante aprendizado para expandir minha visão de segurança, entender novas ameaças e fortalecer a postura de defesa.  
+My work focuses on connecting people, processes and technology by improving operational efficiency, strengthening security and simplifying enterprise IT through automation and modern cloud services.
 
-📫 Vamos conversar sobre segurança e tecnologia?  
-[LinkedIn](https://www.linkedin.com/in/filipeandrade-ti) • [Email](mailto:andrade.filipe7@gmail.com)  
+---
+
+## 🚀 Core Expertise
+
+- ☁️ Cloud Operations
+- 🔐 Identity & Access Management
+- 🛡️ Security Operations
+- 🤖 Enterprise Automation
+- 🏢 SaaS Administration
+- 🌐 Zero Trust & Secure Access
+- 📊 Observability
+- 🐧 Linux Administration
+
+---
+
+## 🛠️ Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,linux,git,github,docker,vscode,bash" />
+</p>
+
+### Platforms
+
+- AWS IAM
+- Okta
+- Google Workspace
+- Slack Enterprise
+- CrowdStrike Falcon
+- Datadog
+- Tailscale
+- Jira
+- Microsoft 365
+
+---
+
+## 🌱 Currently Learning
+
+- Terraform
+- Docker
+- GitHub Actions
+- CI/CD
+- Platform Engineering
+
+---
+
+## 📂 Featured Projects
+
+- 🏗️ Infrastructure Lab
+- 🤖 n8n Self-Hosted Lab
+- 🚀 Giropops Status
+- ☁️ AWS IAM Labs *(coming soon)*
+- 🔐 Okta Labs *(coming soon)*
+- ⚡ Slack Automation *(coming soon)*
+
+---
+
+## 🤝 Connect with me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/filipeandrade-ti">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:andrade.filipe7@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
